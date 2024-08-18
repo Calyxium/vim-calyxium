@@ -18,7 +18,7 @@ syntax match CalComment "^#.*$"
 syntax match CalString /".*"/
 
 " Numbers (int and float)
-syntax match CalNumber /\v\d+(\.\d+)?/
+syntax match CalNumber /\d+(\.\d+)?\>/
 
 " Classes and objects (match 'this' and 'self')
 syntax keyword CalClass this self
