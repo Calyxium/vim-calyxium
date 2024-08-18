@@ -36,7 +36,7 @@ highlight CalFunction ctermfg=white guifg=#FFFFFF
 highlight CalParen ctermfg=white guifg=#FFFFFF
 highlight CalComment ctermfg=244 guifg=#808080
 highlight CalString ctermfg=114 guifg=#77DD77
-highlight CalNumber ctermfg=229 guifg=#FFFACD
+highlight CalNumber ctermfg=229 guifg=#FFD700
 highlight CalClass ctermfg=white guifg=#FFFFFF
 highlight CalOperator ctermfg=167 guifg=#CD5C5C
 highlight CalVariable ctermfg=white guifg=#FFFFFF
