@@ -12,7 +12,7 @@ syntax match CalFunction /\w\+\s*(/
 syntax match CalParen /[()]/
 
 " Comments
-syntax match CalComment #.*
+syntax match CalComment "^#"
 
 " Strings
 syntax match CalString /".*"/
